@@ -22,7 +22,7 @@ Executed an end-to-end Procure-to-Pay (P2P) cycle in a live SAP S/4HANA Cloud en
 ## 📄 Document Chain
 
 | Step | Document | SAP Reference |
-|------|----------|--------------|
+
 | 1. Purchase Requisition | PR created for 50 × BKR-100 Frames | PR 0010002749 |
 | 2. Purchase Order | PR converted to PO, approved | PO 4500064292 ($4,250 USD) |
 | 3. Goods Receipt | Material received at Plant 1710 | Mat Doc 5000064835 |
@@ -37,8 +37,7 @@ Executed an end-to-end Procure-to-Pay (P2P) cycle in a live SAP S/4HANA Cloud en
 
 | File | Description |
 |------|-------------|
-| `P2P_Cycle_Documentation.pptx` | Professional PowerPoint documenting the full cycle with SAP screenshots |
-| `screenshots/` | Individual SAP screenshots for each process step |
+| `P2P_Cycle_Documentation.pptx` | Professional PowerPoint documenting the full cycle with SAP screenshots. Individual SAP screenshots for each process step |
 
 ---
 
